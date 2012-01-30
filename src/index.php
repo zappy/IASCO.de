@@ -388,6 +388,7 @@ $SWITZERLAND = array(
 	"GRR" => array("code" => "GRR", "URL" => "http://www.apple.comchfr/retail/ruederive", location => "Geneva", store => "Rue de Rive")
 );
 $GERMANY = array(
+	"OBH" => array("code" => "OBH", "URL" => "http://www.apple.com/de/retail/centro", location => "Oberhausen", store => "CentrO"),
 	"FGB" => array("code" => "FGB", "URL" => "http://www.apple.com/de/retail/grossebockenheimerstrasse", location => "Frankfurt", store => "Große Bockenheimer Straße"),
 	"HAL" => array("code" => "HAL", "URL" => "http://www.apple.com/de/retail/alstertal", location => "Hamburg", store => "Alstertal"),
 	"MUR" => array("code" => "MUR", "URL" => "http://www.apple.com/de/retail/rosenstrasse", location => "München", store => "Rosenstraße")
